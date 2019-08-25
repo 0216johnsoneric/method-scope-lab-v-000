@@ -2,6 +2,6 @@
 #   puts "#{phrase}"
 # end
 
-def catch_phrase(phrase)
+def catch_phrase(phrase = "Hello idiot")
   puts "#{phrase}"
 end
